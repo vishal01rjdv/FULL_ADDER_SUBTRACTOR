@@ -53,8 +53,14 @@ Write the detailed procedure here
  3.Generate the RTL schematic and save the logic diagram.
  4.Create nodes for inputs and outputs to generate the timing diagram.
  5.For different input combinations generate the timing diagram
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:VISHAL R RegisterNumber:25004464
 */
+Full Adder:
+
+<img width="873" height="249" alt="Screenshot 2025-10-24 095532" src="https://github.com/user-attachments/assets/3fdaf6e2-8aac-406c-a936-cabc91f402f0" />
+Full Subtractor:
+
+<img width="790" height="305" alt="Screenshot 2025-10-24 095542" src="https://github.com/user-attachments/assets/dfc28f55-5ca4-4e91-9121-ee60c285f16f" />
 
 **RTL Schematic**
 <img width="542" height="352" alt="Screenshot 2025-10-23 205142" src="https://github.com/user-attachments/assets/3c66f095-8ef8-4d93-aec8-d263c3a2552f" />
